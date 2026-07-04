@@ -1,0 +1,8 @@
+[33mcommit 551f90c9fde0aed4c032dbb02439fb6bcded3777[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: AdityaAK67 <adikandalkar838@gmail.com>
+Date:   Sat Jul 4 18:00:00 2026 +0530
+
+    working research API: crawler + serper + openrouter
+
+ company-research-ai | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
